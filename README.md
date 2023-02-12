@@ -16,6 +16,8 @@
   <a href="#credits">Credits</a>
 </p>
 
+![screenshot](https://cdn.discordapp.com/attachments/1064084096793456751/1074418491043618866/maskfarms.png)
+
 ![screenshot](https://cdn.discordapp.com/attachments/1064084096793456751/1072694561421414460/Ekran_goruntusu_2023-02-08_044114.png)
 
 ## Key Features
