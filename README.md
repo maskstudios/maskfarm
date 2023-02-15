@@ -40,7 +40,7 @@ You can [DOWNLOAD](https://github.com/maskstudios/maskfarm/releases/download/Aut
 ## How To Use
 > Just a open and Launch Growtopia Button. (Click the image below for the tutorial video.)
 
-[![TURORIAL VIDEO](https://img.youtube.com/vi/r0E1vvVnVRY/0.jpg)](https://www.youtube.com/watch?v=r0E1vvVnVRY)
+[![TURORIAL VIDEO](https://img.youtube.com/vi/R241T1ypxIA/0.jpg)](https://www.youtube.com/watch?v=R241T1ypxIA)
 
 
 ## Credits
